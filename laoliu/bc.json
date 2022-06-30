@@ -2,7 +2,7 @@
 
 {
 "spider":"https://raw.githubusercontents.com/arsky800/test/main/laoliu/0630.jar",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL3Jhdy5naXRodWJ1c2VyY29udGVudHMuY29tL2Fyc2t5ODAwL3Rlc3QvbWFpbi9sYW9saXUvdHYvYmMudHh0"]}]}],
 
 
 "sites":[
