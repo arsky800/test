@@ -1,7 +1,7 @@
 // 配置地址 --> https://raw.githubusercontents.com/arsky800/test/main/laoliu/bc.json
 
 {
-"spider":"https://raw.githubusercontents.com/arsky800/test/main/laoliu/0630.jar",
+"spider":"https://raw.githubusercontents.com/arsky800/test/main/laoliu/0701.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9hcnNreTgwMC90ZXN0L21haW4vbGFvbGl1L3R2L2JjLnR4dA=="]}]}],
 
 
