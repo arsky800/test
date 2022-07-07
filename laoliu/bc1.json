@@ -1,7 +1,7 @@
 // 配置地址 --> https://raw.githubusercontents.com/arsky800/test/main/laoliu/bc.json
 
 {
-"spider":"https://raw.githubusercontents.com/arsky800/test/main/laoliu/MaooXP/16mm.jar",
+"spider":"https://raw.githubusercontents.com/arsky800/test/main/laoliu/qjj.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9hcnNreTgwMC90ZXN0L21haW4vbGFvbGl1L3R2L2JjLnR4dA=="]}]}],
 
 
@@ -15,6 +15,15 @@
 {"key":"csp_BBB","name":"🅱哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_n0ys","name":"💥1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
+   {
+      "key": "csp_Kmys",
+      "name": "🐞酷猫影视",
+      "type": 3,
+      "api": "csp_Kmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key":"csp_biubiu_大米星球","name":"🥒大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/arsky800/test/main/laoliu/MaooXB/大米星球.json"},
 {"key":"spider_Bttoo","name":"📚2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
